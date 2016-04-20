@@ -4,7 +4,7 @@ Fork of the original UDP-based Data Transfer Protocol (UDT) on SourceForge.
 
 For the original project see: <http://udt.sourceforge.net/>
 
-**Please note:** the name of the project is likely to change in the future. In
+**Please note:** the project name is likely to change in the future. In
 the meantime, if you have any funky names that effectively capture the spirit
 of the protocol and the project, please send them in!
 
