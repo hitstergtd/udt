@@ -28,6 +28,18 @@ Follow the instructions in README.txt.
 Go to: <http://udt.sourceforge.net/udt4/index.htm>
 
 ## License
+Original copyright notice:
+> Copyright (c) 2001 - 2011, The Board of Trustees of the University of Illinois.
+> All Rights Reserved.
 
-* New style BSD License
-* See LICENSE.txt
+> Copyright (c) 2011 - 2012, Google, Inc. All Rights Reserved.
+
+> UDP-based Data Transfer (UDT) Library - version 4
+> Author: Yunhong Gu [yunhong.gu @ gmail.com]
+
+UDT version 4 and this fork is free software under a BSD License.
+
+See LICENSE.txt for more information.
+
+## About this fork
+This fork is to be considered a derivative work, with the hopeful intent that future work on the UDT protocol will move away from SourceForge and onto GitHub or even BitBucket.
