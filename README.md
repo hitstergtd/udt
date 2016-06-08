@@ -38,6 +38,7 @@ UDT version 4 and this fork is free software under a BSD License.
 
 See LICENSE.txt for more information.
 
-## About this fork This fork is to be considered a derivative work, with the
+## About this fork
+This fork is to be considered a derivative work, with the
 hopeful intent that future work on the UDT protocol will move away from
 SourceForge and onto GitHub or even BitBucket.
